@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make an Among Us clone.
 - 💞️ I’m looking to collaborate on the Among us game!
 - 📫 How to reach me : agathe.bonet@gmail.com
-- 💀 Seriously, I program in C
+- 💀 Seriously, I program in Go
 
 <!---
 agathe-bonet/agathe-bonet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
